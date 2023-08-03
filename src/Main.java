@@ -9,5 +9,7 @@ public class Main {
         } else {
             System.out.println("No");
         }
+
+        System.out.println("The code is complete");
     }
 }
